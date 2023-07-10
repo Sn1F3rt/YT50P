@@ -24,7 +24,7 @@ class YT50P(pytube.YouTube):
     @url.setter
     def url(self, url: str):
         if not self.validate(url):
-            raise ValueError("Invalid Youtube video URL")
+            raise ValueError("Invalid YouTube video URL")
 
         self._url = url
 

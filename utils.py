@@ -30,11 +30,11 @@ def validate_params(**kwargs):
 
 def parse_cli():
     parser = argparse.ArgumentParser(
-        description="Download a Youtube video in mp4/mp3 format (both library and CLI usage supported)",
+        description="Download a YouTube video in mp4/mp3 format (both library and CLI usage supported)",
         epilog="Thank you for choosing YT50P! <3",
     )
     parser.add_argument(
-        "-u", "--url", default="", help="The URL of the Youtube video", type=str
+        "-u", "--url", default="", help="The URL of the YouTube video", type=str
     )
     parser.add_argument(
         "-f",
