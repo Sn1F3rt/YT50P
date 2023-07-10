@@ -1,6 +1,6 @@
 # Xolon
 
-My **final project** for the **[CS50P](https://cs50.harvard.edu/python/2022/)** course! :sparkles: :tada:
+My **final project** for the **[CS50P](https://cs50.harvard.edu/python/2022/)** course! :sparkles::tada:
 
 ## Table of Contents
 
