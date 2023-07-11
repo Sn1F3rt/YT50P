@@ -22,7 +22,7 @@ My **final project** for the **[CS50P](https://cs50.harvard.edu/python/2022/)** 
 
 ## Demo
 
-Video demonstration of the tool: YOUTUBE_LINK
+Video demonstration of the tool: **https://youtu.be/ftFMRgI6_TQ**
 
 
 ## Installation
